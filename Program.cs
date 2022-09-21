@@ -27,7 +27,7 @@ public class Calculator {
         int numero2 = System.Convert.ToInt32(segundo);
 
 
-            Console.WriteLine("[VALOR] = " + numero1 + numero2);
+            Console.WriteLine(numero1 + numero2);
 
 
       
